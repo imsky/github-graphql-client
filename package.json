@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "description": "Node.js client for the GitHub GraphQL API with zero dependencies",
   "main": "index.js",
+  "scripts": {
+    "test": "ava"
+  },
   "repository": {
     "type": "git",
     "url": "git+ssh://git@github.com/imsky/github-graphql-client.git"
@@ -17,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/imsky/github-graphql-client/issues"
   },
-  "homepage": "https://github.com/imsky/github-graphql-client#readme"
+  "homepage": "https://github.com/imsky/github-graphql-client#readme",
+  "devDependencies": {
+    "ava": "^3.10.1"
+  }
 }

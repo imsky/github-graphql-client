@@ -1,3 +1,5 @@
+![CI](https://github.com/axelrindle/github-graphql-client/workflows/CI/badge.svg)
+
 # GitHub GraphQL Client
 
 Node.js client for the GitHub GraphQL API with zero dependencies.
