@@ -1,4 +1,4 @@
-![CI](https://github.com/axelrindle/github-graphql-client/workflows/CI/badge.svg)
+![CI](https://github.com/imsky/github-graphql-client/workflows/CI/badge.svg)
 
 # GitHub GraphQL Client
 
