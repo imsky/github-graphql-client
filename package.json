@@ -22,6 +22,6 @@
   },
   "homepage": "https://github.com/imsky/github-graphql-client#readme",
   "devDependencies": {
-    "ava": "^3.10.1"
+    "ava": "^5.1.1"
   }
 }
